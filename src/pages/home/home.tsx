@@ -1,7 +1,7 @@
-import Welcome from "@components/welcome/welcome";
+import Hero from "@components/hero/hero";
 
 function Home() {
-  return <Welcome />;
+  return <Hero />;
 }
 
 export default Home;
